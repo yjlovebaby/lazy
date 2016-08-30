@@ -3,3 +3,4 @@ Git is free software under the GPL.
 Git has a mutable index called stage
 aha
 hello me
+Creating a new branch is quick AND simple
